@@ -7,25 +7,25 @@
 
 ### Steps:
 
-- Introduction :white-check-mark:
-- Installation :white-check-mark:
-- Environment variables :white-check-mark:
-- Packages :white-check-mark:
-- Primitive types :white-check-mark:
-  - Variables conventions :white-check-mark:
-  - Declaration and memory size :white-check-mark:
-  - Casting :white-check-mark:
-  - Strings :white-check-mark:
-  - Arithmetic :white-check-mark:
-  - Relational :white-check-mark:
-  - Logic AND :white-check-mark:
-  - Logic OR :white-check-mark:
-  - Attribution :white-check-mark:
-- Conditional structures :white-check-mark:
-  - if - else :white-check-mark:
-  - switch :white-check-mark:
-- Repetition structures :white-check-mark:
-  - while :white-check-mark:
-  - do-while :white-check-mark:
-  - for :white-check-mark:
-  - break :white-check-mark:
+- Introduction :white_check_mark:
+- Installation :white_check_mark:
+- Environment variables :white_check_mark:
+- Packages :white_check_mark:
+- Primitive types :white_check_mark:
+  - Variables conventions :white_check_mark:
+  - Declaration and memory size :white_check_mark:
+  - Casting :white_check_mark:
+  - Strings :white_check_mark:
+  - Arithmetic :white_check_mark:
+  - Relational :white_check_mark:
+  - Logic AND :white_check_mark:
+  - Logic OR :white_check_mark:
+  - Attribution :white_check_mark:
+- Conditional structures :white_check_mark:
+  - if - else :white_check_mark:
+  - switch :white_check_mark:
+- Repetition structures :white_check_mark:
+  - while :white_check_mark:
+  - do-while :white_check_mark:
+  - for :white_check_mark:
+  - break :white_check_mark:
