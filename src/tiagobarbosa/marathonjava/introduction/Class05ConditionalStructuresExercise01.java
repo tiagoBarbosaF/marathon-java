@@ -1,6 +1,6 @@
 package tiagobarbosa.marathonjava.introduction;
 
-public class Class05ConditionalStructuresExercise {
+public class Class05ConditionalStructuresExercise01 {
     public static void main(String[] args) {
 
         System.out.println("== Netherlands taxes ==");
