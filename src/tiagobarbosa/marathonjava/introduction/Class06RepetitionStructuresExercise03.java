@@ -2,7 +2,7 @@ package tiagobarbosa.marathonjava.introduction;
 
 public class Class06RepetitionStructuresExercise03 {
     public static void main(String[] args) {
-        System.out.println("== Car financialment ==\n");
+        System.out.println("== Car financial ==\n");
 
         double carValue = 25500D;
 

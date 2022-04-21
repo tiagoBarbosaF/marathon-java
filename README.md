@@ -29,3 +29,14 @@
   - do-while :white_check_mark:
   - for :white_check_mark:
   - break :white_check_mark:
+- Arrays :white_check_mark:
+  - Multidimensional :white_check_mark:
+- Object orientation :white_check_mark:
+  - Introduction :white_check_mark:
+  - Cohesion :white_check_mark:
+  - References object :white_check_mark:
+  - Methods :white_check_mark:
+  - Methods with parameters :white_check_mark:
+  - Methods with return :white_check_mark:
+  - Methods with primitive parameters :white_check_mark:
+  - Methods with reference parameters :white_check_mark:
