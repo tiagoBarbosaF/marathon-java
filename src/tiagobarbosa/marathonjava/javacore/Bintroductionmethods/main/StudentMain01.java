@@ -11,5 +11,9 @@ public class StudentMain01 {
 
         printStudent.print(student01);
         printStudent.print(student02);
+
+        System.out.println("\nPrint using method print in Class student");
+        student01.print();
+        student02.print();
     }
 }

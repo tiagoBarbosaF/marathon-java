@@ -40,3 +40,4 @@
   - Methods with return :white_check_mark:
   - Methods with primitive parameters :white_check_mark:
   - Methods with reference parameters :white_check_mark:
+  - Access modifiers :white_check_mark:

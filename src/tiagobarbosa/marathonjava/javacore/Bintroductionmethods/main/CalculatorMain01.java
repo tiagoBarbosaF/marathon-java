@@ -18,5 +18,13 @@ public class CalculatorMain01 {
 
         System.out.println("\n== DIVIDE ==");
         System.out.println(calculator.divideTwoNumbers(50.5, 0));
+
+        int[] numbers = {1,2,3,4,5};
+
+        System.out.println("\n== SUM ARRAYS ==");
+        calculator.sumArray(numbers);
+
+        System.out.println("\n== SUM VAR ARGS ==");
+        calculator.sumVarArgs(10,20,30,40,50);
     }
 }

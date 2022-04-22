@@ -20,4 +20,22 @@ public class Calculator {
         }
         return num01 / num02;
     }
+
+    public void sumArray(int[] numbers){
+        int sum = 0;
+        for (int num :
+                numbers) {
+            sum += num;
+        }
+        System.out.println(sum);
+    }
+
+    public void sumVarArgs(int... numbers){
+        int sum = 0;
+        for (int num :
+                numbers) {
+            sum += num;
+        }
+        System.out.println(sum);
+    }
 }

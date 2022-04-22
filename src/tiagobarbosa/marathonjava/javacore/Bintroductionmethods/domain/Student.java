@@ -10,4 +10,8 @@ public class Student {
     public String Name;
     public int Age;
     public char Gender;
+
+    public void print() {
+        System.out.println("Student -> Name: " + this.Name + ", Age: " + this.Age + ", Gender: " + this.Gender);
+    }
 }
