@@ -1,19 +1,27 @@
 package tiagobarbosa.marathonjava.javacore.Bintroductionmethods.domain;
 
 public class AverageSalary {
-    public double[] Salary;
+    private double[] Salary;
+    private double Average;
 
     public AverageSalary(double[] salary) {
         Salary = salary;
     }
 
+    public double[] getSalary() {
+        return Salary;
+    }
+
+    public double getAverage() {
+        return Average;
+    }
+
     public void avgSalary() {
-        double avg = 0;
         for (double salary :
                 this.Salary) {
-            avg += salary;
+            Average += salary;
         }
-        avg /= this.Salary.length;
-        System.out.println("Average salary: " + avg);
+        Average /= this.Salary.length;
+        System.out.println("Average salary: " + Average);
     }
 }

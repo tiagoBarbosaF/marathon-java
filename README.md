@@ -41,3 +41,8 @@
   - Methods with primitive parameters :white_check_mark:
   - Methods with reference parameters :white_check_mark:
   - Access modifiers :white_check_mark:
+  - Overload methods :white_check_mark:
+  - Constructors :white_check_mark:
+  - Initialize blocks :white_check_mark:
+  - Static modifiers :white_check_mark:
+  - Associations :white_check_mark:
