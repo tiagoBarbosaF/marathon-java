@@ -46,3 +46,15 @@
   - Initialize blocks :white_check_mark:
   - Static modifiers :white_check_mark:
   - Associations :white_check_mark:
+  - Heritage :white_check_mark:
+    - Super :white_check_mark:
+    - Protected :white_check_mark:
+    - Constructors :white_check_mark:
+    - Initialization sequence :white_check_mark:
+  - Overload toString method :white_check_mark:
+  - Final modifier :white_check_mark:
+    - Primitive types :white_check_mark:
+    - Reference types :white_check_mark:
+    - Class and methods :white_check_mark:
+  - Enumeration :white_check_mark:
+    - Introduction :white_check_mark:
