@@ -3,18 +3,26 @@ package tiagobarbosa.marathonjava.javacore.Kenum.domain;
 public class Client {
     private String name;
     private ClientType clientType;
+    private PaymentType paymentType;
 
-    public Client(String name, ClientType clientType) {
+    public Client(String name, ClientType clientType, double v) {
         this.name = name;
         this.clientType = clientType;
+    }
+
+    public Client(String name, ClientType clientType, PaymentType paymentType) {
+        this.name = name;
+        this.clientType = clientType;
+        this.paymentType = paymentType;
     }
 
     @Override
     public String toString() {
         return "Client{" +
                 "name='" + name + '\'' +
-                ", clientTypeCode=" + clientType.ordinal() +
-                ", clientType=" + clientType +
+                ", clientTypeCode=" + clientType.VALUE +
+                ", clientType=" + clientType.REPORT_NAME +
+                ", clientType=" + paymentType +
                 '}';
     }
 
@@ -26,11 +34,11 @@ public class Client {
         this.name = name;
     }
 
-    public ClientType getClientType() {
-        return clientType;
+    public PaymentType getPaymentType() {
+        return paymentType;
     }
 
-    public void setClientType(ClientType clientType) {
-        this.clientType = clientType;
+    public void setPaymentType(PaymentType paymentType) {
+        this.paymentType = paymentType;
     }
 }
