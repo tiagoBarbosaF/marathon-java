@@ -10,5 +10,8 @@ public class EmployeeMain01 {
 
         System.out.println(manager);
         System.out.println(developer);
+
+        manager.print();
+        developer.print();
     }
 }

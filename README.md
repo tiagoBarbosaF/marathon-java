@@ -63,3 +63,11 @@
     - Search for attributes :white_check_mark:
   - Abstract Classes :white_check_mark:
     - Abstract methods :white_check_mark:
+  - Interfaces :white_check_mark:
+    - Multiples interfaces :white_check_mark:
+    - Attributes and static methods :white_check_mark:
+  - Polymorphism :white_check_mark:
+    - Introduction :white_check_mark:
+    - Polymorphic parameters :white_check_mark:
+    - Cast and `instanceOf` :white_check_mark:
+    - Oriented interfaces program :white_check_mark:
