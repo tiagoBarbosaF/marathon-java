@@ -71,3 +71,15 @@
     - Polymorphic parameters :white_check_mark:
     - Cast and `instanceOf` :white_check_mark:
     - Oriented interfaces program :white_check_mark:
+  - Exceptions :white_check_mark:
+    - Errors :white_check_mark:
+    - RuntimeException :white_check_mark:
+    - Exception :white_check_mark:
+    - Launch unchecked exceptions :white_check_mark:
+    - Launch checked exceptions :white_check_mark:
+    - Block `finally` :white_check_mark:
+    - Capture multiple exceptions :white_check_mark:
+    - Multi catch inline :white_check_mark:
+    - Try with resources :white_check_mark:
+    - Custom exceptions :white_check_mark:
+    - Overload rules exceptions :white_check_mark:
