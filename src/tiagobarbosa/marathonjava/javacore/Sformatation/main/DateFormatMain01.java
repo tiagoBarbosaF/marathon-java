@@ -1,4 +1,4 @@
-package tiagobarbosa.marathonjava.javacore.Rdates.main;
+package tiagobarbosa.marathonjava.javacore.Sformatation.main;
 
 import java.text.DateFormat;
 import java.util.Calendar;

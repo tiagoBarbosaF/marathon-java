@@ -83,12 +83,17 @@
   - Try with resources :white_check_mark:
   - Custom exceptions :white_check_mark:
   - Overload rules exceptions :white_check_mark:
-- Wrappers :white_check_mark:
-- Strings :white_check_mark:
-  - Performance :white_check_mark:
-  - StringBuilder :white_check_mark:
-- Date :white_check_mark:
-- Calendar :white_check_mark:
-- DateFormat :white_check_mark:
-- Internationalization :white_check_mark:
-  - Dates with locale :white_check_mark:
+- Utility Classes :white_check_mark:
+  - Wrappers :white_check_mark:
+  - Strings :white_check_mark:
+    - Performance :white_check_mark:
+    - StringBuilder :white_check_mark:
+  - Date :white_check_mark:
+  - Calendar :white_check_mark:
+  - DateFormat :white_check_mark:
+  - Internationalization :white_check_mark:
+    - Dates with locale :white_check_mark:
+    - Numbers with locale :white_check_mark:
+    - Money with locale :white_check_mark:
+  - SimpleDateFormat :white_check_mark:
+  - LocalDate :white_check_mark:
