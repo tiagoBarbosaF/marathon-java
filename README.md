@@ -97,3 +97,7 @@
     - Money with locale :white_check_mark:
   - SimpleDateFormat :white_check_mark:
   - LocalDate :white_check_mark:
+  - LocalDateTime :white_check_mark:
+  - Instant :white_check_mark:
+  - Period :white_check_mark:
+  - ChronoUnit :white_check_mark:
