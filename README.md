@@ -101,3 +101,7 @@
   - Instant :white_check_mark:
   - Period :white_check_mark:
   - ChronoUnit :white_check_mark:
+  - TemporalAdjusters :white_check_mark:
+  - TemporalAdjuster :white_check_mark:
+  - ZonedDateTime, ZoneId, OffSetDateTime :white_check_mark:
+  - DateTimeFormatter :white_check_mark:
