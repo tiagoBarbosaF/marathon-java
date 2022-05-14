@@ -105,3 +105,10 @@
   - TemporalAdjuster :white_check_mark:
   - ZonedDateTime, ZoneId, OffSetDateTime :white_check_mark:
   - DateTimeFormatter :white_check_mark:
+  - ResourceBundle :white_check_mark:
+  - Regex :white_check_mark:
+    - Pattern and Matcher :white_check_mark:
+    - Pattern and Matcher - Meta character :white_check_mark:
+    - Pattern and Matcher - Range :white_check_mark:
+    - Pattern and Matcher - Quantifiers part01 :white_check_mark:
+    - Pattern and Matcher - Quantifiers part02 :white_check_mark:
