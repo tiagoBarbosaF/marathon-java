@@ -112,3 +112,15 @@
     - Pattern and Matcher - Range :white_check_mark:
     - Pattern and Matcher - Quantifiers part01 :white_check_mark:
     - Pattern and Matcher - Quantifiers part02 :white_check_mark:
+    - Pattern and Matcher - Anchor :white_check_mark:
+  - Scanner :white_check_mark:
+  - IO :white_check_mark:
+    - File :white_check_mark:
+    - FileWriter :white_check_mark:
+    - FileReader :white_check_mark:
+    - BufferedWriter :white_check_mark:
+    - BufferedReader :white_check_mark:
+    - File for directories :white_check_mark:
+  - NIO :white_check_mark:
+    - Path, Paths, Files part_01 :white_check_mark:
+    - Path, Paths, Files part_02 :white_check_mark:
