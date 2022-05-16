@@ -124,3 +124,8 @@
   - NIO :white_check_mark:
     - Path, Paths, Files part_01 :white_check_mark:
     - Path, Paths, Files part_02 :white_check_mark:
+    - Normalize :white_check_mark:
+    - Resolve paths :white_check_mark:
+    - Relativize :white_check_mark:
+    - BasicFileAttributes part_01 :white_check_mark:
+    - BasicFileAttributes part_02 :white_check_mark:
