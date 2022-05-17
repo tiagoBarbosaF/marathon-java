@@ -129,3 +129,8 @@
     - Relativize :white_check_mark:
     - BasicFileAttributes part_01 :white_check_mark:
     - BasicFileAttributes part_02 :white_check_mark:
+    - DosFileAttributes :white_check_mark:
+    - PosixFileAttributes :white_check_mark:
+    - DirectoryStream :white_check_mark:
+    - SimpleFileVisitor part_01 :white_check_mark:
+    - SimpleFileVisitor part_02 :white_check_mark:
