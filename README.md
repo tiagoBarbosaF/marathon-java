@@ -134,3 +134,9 @@
     - DirectoryStream :white_check_mark:
     - SimpleFileVisitor part_01 :white_check_mark:
     - SimpleFileVisitor part_02 :white_check_mark:
+    - PathMatcher part_01 :white_check_mark:
+    - PathMatcher part_02 :white_check_mark:
+    - ZipOutputStream :white_check_mark:
+  - Serialization part_01 :white_check_mark:
+  - Serialization part_02 :white_check_mark:
+- Collections
