@@ -140,3 +140,8 @@
   - Serialization part_01 :white_check_mark:
   - Serialization part_02 :white_check_mark:
 - Collections
+  - equals part_01 :white_check_mark:
+  - equals part_02 :white_check_mark:
+  - hashCode part_01 :white_check_mark:
+  - hashCode part_02 :white_check_mark:
+  - Big-O complexity :white_check_mark:
