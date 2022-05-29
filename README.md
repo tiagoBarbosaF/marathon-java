@@ -145,3 +145,9 @@
   - hashCode part_01 :white_check_mark:
   - hashCode part_02 :white_check_mark:
   - Big-O complexity :white_check_mark:
+  - List :white_check_mark:
+  - Sorting lists :white_check_mark:
+  - Binary search :white_check_mark:
+  - Conversion List to Arrays :white_check_mark:
+  - Iterator :white_check_mark:
+  - Set, HashSet :white_check_mark:
