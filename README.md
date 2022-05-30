@@ -151,3 +151,5 @@
   - Conversion List to Arrays :white_check_mark:
   - Iterator :white_check_mark:
   - Set, HashSet :white_check_mark:
+  - NavigableSet, TreeSet :white_check_mark:
+  - Map, HashMap, LinkedHashMap :white_check_mark:
