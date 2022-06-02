@@ -139,7 +139,7 @@
     - ZipOutputStream :white_check_mark:
   - Serialization part_01 :white_check_mark:
   - Serialization part_02 :white_check_mark:
-- Collections
+- Collections :white_check_mark:
   - equals part_01 :white_check_mark:
   - equals part_02 :white_check_mark:
   - hashCode part_01 :white_check_mark:
@@ -153,3 +153,7 @@
   - Set, HashSet :white_check_mark:
   - NavigableSet, TreeSet :white_check_mark:
   - Map, HashMap, LinkedHashMap :white_check_mark:
+  - NavigableMap, TreeMap :white_check_mark:
+  - Queue, PriorityQueue :white_check_mark:
+- Generics
+  - Wildcard :white_check_mark:
