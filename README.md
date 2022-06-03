@@ -155,5 +155,19 @@
   - Map, HashMap, LinkedHashMap :white_check_mark:
   - NavigableMap, TreeMap :white_check_mark:
   - Queue, PriorityQueue :white_check_mark:
-- Generics
+- Generics :white_check_mark:
   - Wildcard :white_check_mark:
+  - Generic classes :white_check_mark:
+  - Generic methods :white_check_mark:
+- Inner Classes :white_check_mark:
+  - Local Classes :white_check_mark:
+  - Anonymous Classes :white_check_mark:
+  - Nested static Classes :white_check_mark:
+- Parameterizing behaviors :white_check_mark:
+- Lambdas :white_check_mark:
+  - `Predicate` :white_check_mark:
+  - `Consumer` :white_check_mark:
+  - `Function` :white_check_mark:
+  - Method reference (reference static methods) :white_check_mark:
+  - Method reference (reference non-static methods) :white_check_mark:
+  - Method reference (reference constructors) :white_check_mark:
