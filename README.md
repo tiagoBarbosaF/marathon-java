@@ -171,3 +171,6 @@
   - Method reference (reference static methods) :white_check_mark:
   - Method reference (reference non-static methods) :white_check_mark:
   - Method reference (reference constructors) :white_check_mark:
+- Optional :white_check_mark:
+- Streams
+  - Introduction :white_check_mark:
