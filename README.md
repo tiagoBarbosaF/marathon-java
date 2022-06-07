@@ -174,3 +174,6 @@
 - Optional :white_check_mark:
 - Streams
   - Introduction :white_check_mark:
+  - FlatMap :white_check_mark:
+  - Finding and Matching :white_check_mark:
+  - Reduce :white_check_mark:
