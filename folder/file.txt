@@ -1,0 +1,4 @@
+Java is cool.
+Java will make me rich.
+Testing stream file
+another line

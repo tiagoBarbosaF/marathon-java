@@ -177,3 +177,7 @@
   - FlatMap :white_check_mark:
   - Finding and Matching :white_check_mark:
   - Reduce :white_check_mark:
+  - Generate Streams :white_check_mark:
+  - Collectors 
+    - Summarizing :white_check_mark:
+    - Grouping by :white_check_mark:
