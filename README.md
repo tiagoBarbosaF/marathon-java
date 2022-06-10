@@ -172,12 +172,18 @@
   - Method reference (reference non-static methods) :white_check_mark:
   - Method reference (reference constructors) :white_check_mark:
 - Optional :white_check_mark:
-- Streams
+- Streams :white_check_mark:
   - Introduction :white_check_mark:
   - FlatMap :white_check_mark:
   - Finding and Matching :white_check_mark:
   - Reduce :white_check_mark:
   - Generate Streams :white_check_mark:
-  - Collectors 
+  - Collectors :white_check_mark:
     - Summarizing :white_check_mark:
     - Grouping by :white_check_mark:
+  - Parallel streams :white_check_mark:
+- Threads
+  - Threads state :white_check_mark:
+  - Priority thread and sleep :white_check_mark:
+  - yield and join :white_check_mark:
+  - synchronized thread :white_check_mark:
