@@ -182,8 +182,14 @@
     - Summarizing :white_check_mark:
     - Grouping by :white_check_mark:
   - Parallel streams :white_check_mark:
-- Threads
+- Threads :white_check_mark:
   - Threads state :white_check_mark:
   - Priority thread and sleep :white_check_mark:
   - yield and join :white_check_mark:
   - synchronized thread :white_check_mark:
+  - synchronized thread - ThreadSafe class :white_check_mark:
+  - synchronized thread - Deadlock :white_check_mark:
+  - synchronized thread - wait, notify and notifyAll :white_check_mark:
+- Concurrence
+  - AtomicInteger :white_check_mark:
+  - Lock and ReentrantLock :white_check_mark:
