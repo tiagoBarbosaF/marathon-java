@@ -198,3 +198,10 @@
   - CopyOnWriteLock :white_check_mark:
   - ArrayBlockingQueue :white_check_mark:
   - LinkedTransferQueue :white_check_mark:
+  - Executors :white_check_mark:
+    - Thread Pools :white_check_mark:
+    - ScheduledExecutorService :white_check_mark:
+    - Interface Callable :white_check_mark:
+    - Future :white_check_mark:
+  - CompletableFuture
+    - get and join :white_check_mark:
