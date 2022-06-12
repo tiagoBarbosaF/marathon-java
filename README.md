@@ -190,7 +190,7 @@
   - synchronized thread - ThreadSafe class :white_check_mark:
   - synchronized thread - Deadlock :white_check_mark:
   - synchronized thread - wait, notify and notifyAll :white_check_mark:
-- Concurrence
+- Concurrence :white_check_mark:
   - AtomicInteger :white_check_mark:
   - Lock and ReentrantLock :white_check_mark:
   - Conditions :white_check_mark:
@@ -205,3 +205,7 @@
     - Future :white_check_mark:
   - CompletableFuture
     - get and join :white_check_mark:
+    - Streams :white_check_mark:
+    - ThreadFactory :white_check_mark:
+    - Chaining calls :white_check_mark:
+    - allOf, anyOf :white_check_mark:
