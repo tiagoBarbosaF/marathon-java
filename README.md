@@ -216,4 +216,9 @@
     - Eager initialization :white_check_mark:
     - Lazy initialization :white_check_mark:
     - Singleton with enumeration :white_check_mark:
-  - Data transfer object :white_check_mark:
+  - Data transfer object
+- JDBC
+  - Statement :white_check_mark:
+  - Lombok and Log4J2 :white_check_mark:
+  - Deleting data with Statement :white_check_mark:
+  - Updating data with Statement :white_check_mark:
