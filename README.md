@@ -203,9 +203,17 @@
     - ScheduledExecutorService :white_check_mark:
     - Interface Callable :white_check_mark:
     - Future :white_check_mark:
-  - CompletableFuture
+  - CompletableFuture :white_check_mark:
     - get and join :white_check_mark:
     - Streams :white_check_mark:
     - ThreadFactory :white_check_mark:
     - Chaining calls :white_check_mark:
     - allOf, anyOf :white_check_mark:
+- Design Pattern :white_check_mark:
+  - Builder :white_check_mark:
+  - Factory :white_check_mark:
+  - Singleton :white_check_mark:
+    - Eager initialization :white_check_mark:
+    - Lazy initialization :white_check_mark:
+    - Singleton with enumeration :white_check_mark:
+  - Data transfer object :white_check_mark:
