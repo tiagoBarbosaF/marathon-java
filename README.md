@@ -222,3 +222,9 @@
   - Lombok and Log4J2 :white_check_mark:
   - Deleting data with Statement :white_check_mark:
   - Updating data with Statement :white_check_mark:
+  - Searching data with ResultSet :white_check_mark:
+    - findAll :white_check_mark:
+    - findByName :white_check_mark:
+  - ResultSetMetaData :white_check_mark:
+  - DatabaseMetaData :white_check_mark:
+  - ResultSet TYPE_SCROLL_INSENSITIVE :white_check_mark:
