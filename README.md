@@ -228,3 +228,7 @@
   - ResultSetMetaData :white_check_mark:
   - DatabaseMetaData :white_check_mark:
   - ResultSet TYPE_SCROLL_INSENSITIVE :white_check_mark:
+  - Updating with ResultSet :white_check_mark:
+  - Inserting and deleting records with ResultSet :white_check_mark:
+  - PreparedStatement :white_check_mark:
+  - CallableStatement :white_check_mark:
