@@ -237,5 +237,9 @@
   - Disconnected RowSet :white_check_mark:
     - CachedRowSet :white_check_mark:
   - Transaction :white_check_mark:
-  - CRUD
+  - CRUD :white_check_mark:
     - findByName and findAll :white_check_mark:
+    - delete :white_check_mark:
+    - save :white_check_mark:
+    - update :white_check_mark:
+- Unit tests with jUnit
