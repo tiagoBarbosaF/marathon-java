@@ -1,8 +1,14 @@
-# Java Marathon
+# Java Marathon 
 
-> JAVA studies
+### JAVA studies 
 
-- in progress
+---
+Finished 😫😍🤩🎉🚀🚀🚀🚀
+
+
+> For use mysql in this project, install docker for your operation system in this link (https://docs.docker.com/desktop/).
+After install use the command 
+> ```docker-compose up``` and enjoy.
 
 
 ### Steps:
@@ -242,4 +248,6 @@
     - delete :white_check_mark:
     - save :white_check_mark:
     - update :white_check_mark:
-- Unit tests with jUnit
+- Unit tests with jUnit :white_check_mark:
+- Record Class :white_check_mark:
+- Pattern Matching for instanceOf :white_check_mark:
