@@ -232,3 +232,10 @@
   - Inserting and deleting records with ResultSet :white_check_mark:
   - PreparedStatement :white_check_mark:
   - CallableStatement :white_check_mark:
+  - Connected RowSet :white_check_mark:
+    - JdbcRowSet :white_check_mark:
+  - Disconnected RowSet :white_check_mark:
+    - CachedRowSet :white_check_mark:
+  - Transaction :white_check_mark:
+  - CRUD
+    - findByName and findAll :white_check_mark:
